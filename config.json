@@ -1,7 +1,12 @@
-/* 
-  
-  This is a placeholder file. You can generate this file using this page:
-    
-  https://cloud.google.com/docs/authentication/getting-started
- 
-*/
+"type": "service_account",
+  "project_id": "prismatic-will-407503",
+  "private_key_id": "7c6292ea59b9879001b1a57ba3b702e07fbe8a57",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDO+nnN0XO3G+cx\nMNU5PI3MX4S8ohyBqwPC08SPI3SNxInJmTc7lWRpcXrj4KhXhfPyVPWatUEnckY2\nnjOtYeF9K8db2FY78w63J/EvDgSJ+ouWvPeL5EUyHTwz6sGeTkFMgo4u6Ww0MsKq\nXgw1LrPDjJ9K33P2dI94AVmFIZyuPP2z1Az31D51uWBcDFUnHeAiMElLWhLe/y+0\nqqqatP3yUwsNRAf3LVGAdAlaxsCOwyUyWVDDPBL9JV18YpJQWA7Lih7FM9YxpC76\nzgAgbxU2uafuhX3qk9g0fcWuPmTxe94vDm051j1lPjlXMY2/13WThXAQBCYeCBCj\nhi2hWfFjAgMBAAECggEANrP6h0wpQibsxpJ6eEMp0u8X3OcXk6nIN7DSjWY4gtOD\n+zU0ZNoKDNhCO4H/3An6PHz54KaxDqTkK8FKNTPebb+pU/vsZrHJnNzAoMgaqQD/\n7ZoJ7v4oz6Lsa2hLPfS+y2LiA0IMKAuWaYKrxU6PkkpTO22tb2DFHll0+Hu2tlHM\nkQBhT8aaoiwa1SFMPN3Iyb50NC7QHDyRjsIlxW00Lk27IPGNZaAeb+t3PiIZAjsS\nfWtRQKIBfC+AH5kiZnVIVEGhxbD/KYIrDPtBAO1zNfuaacTlQylGU2pCQFYcg99y\np0dM1EfwD638TCsJVmkOZtXe/pLqS8sdaAUnMqixqQKBgQDvuGUtEtuZXTCzm5Pg\nycDTc1TUTExn6mE8nxShLqHliQcvEgIQy1gYlvX9502+4Tt8E3GA78H2xDKdrEHZ\nqq+sjUFoyF3AfT0bvopiDav2LrYgZurmfqZkPjbgJXR/fAP+WR1rgHRdQmpxDxps\n+oAdfYB0HyeVUkaz1lEPlT8TLQKBgQDdCNqZezz6+/fvyg+HFpU7gyKbhIdvDW/a\nxE1ErjMVo9cXyP8YzqskuO1zumVJzFRomZDDkwxapjcSTBx+igY5OLZvcGrUkBlE\nKz+GEXwDiNoB2y3EixcQx5vPqpHeVdNLSdwTt6CBzXVxjUEvBtbWQycc88ZHmJx/\ntZiRK2UwzwKBgQCAcIH1NodmkqHHefIvnKmuIbsvzHmbq97RhkKdYcjonRS2SaXF\nrc3Tzv6aPdZQEYm3nwtPlCaOuuyLwoG9yFA72atUIxboTbHyLZMjmkOqsbhvf/UX\n7n/kcdkhG7BhpebV3pV+xeKTHUS+suLrxQPjyRyMGy0wOlcbgBcKjGKxOQKBgGT/\neLONBm5A2CfvkmzNut74qsWZJzFtWGEENbJeTuViehRaOYYiWT1sasPotgOkpCUv\nlmBnPsvlC2EG+jYv52waJ/J/0bDTL1hg0qP2NU6AJ+2VMzKNw7pdGysm64RGf0f1\nteQkkej98t4yB0jvvRcmlCa8lSt95nTMi6w5wgEtAoGBANSujCDU2J/cp40a9FX6\nYNLQrJ9IJg3ker486dYZk48qqyZ2d/Pqtt4XUPpp3D4paUmj/kxkJsAWEgUJfCAD\n9cjgEvVnfoBuC71YVA695vXShVSEmDJlyxaddZ9wtjQvSr/6sPnwqyu4x6FcH7wy\nIocNmn+bESHN/uwtJWet1972\n-----END PRIVATE KEY-----\n",
+  "client_email": "minh-vuong@prismatic-will-407503.iam.gserviceaccount.com",
+  "client_id": "112188316750133217058",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/minh-vuong%40prismatic-will-407503.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
